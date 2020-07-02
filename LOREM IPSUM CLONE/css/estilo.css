@@ -1,0 +1,162 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #fff;
+}
+
+#container{
+	margin: 0 auto;
+	width: 50%;
+	text-align: center;
+}
+
+#topo{
+	margin: 20px;
+
+}
+
+#linguas a{
+	margin: 5px;
+	font-size: 0.8em;
+}
+
+#linguas img{
+	width: 25px;
+	margin-bottom: -10px;
+} 
+
+.italic{
+	font-size: 1.1em;
+	font-style: italic;
+}
+
+.menor{
+	font-size: 0.9em;
+}
+
+h1.fonte{
+	font-family: 'IM Fell Double Pica SC', serif;
+	font-size: 4em;
+}
+
+h3.fonte{
+	font-family: 'IM Fell Double Pica SC', serif;
+	text-align: left;
+	font-style: normal;
+}
+
+.esquerdo{
+	display: inline;
+	margin-top: 10px;
+	margin-left: 15px;
+	float: left;
+	width: 46%;
+	text-align: left;
+}
+
+.direito{
+	display: inline;
+	margin-top: 10px;
+	margin-left: 25px;
+	margin-right: 36px;
+	float: left;
+	width: 46%;
+	text-align: left;
+}
+
+form{
+	margin-top: 20px;
+
+}
+
+input[type="text"]{
+	width: 40px;
+	height: 23px;
+	float: left;
+	text-align: center;
+	margin: 30px 10px 0 10px;
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+}
+
+.form-midle{
+	width: 30%;
+	float: left;
+}
+input[type="radio"]{
+	margin: 4px;
+}
+
+
+.form-right{
+	width: 35%;
+	float: left;
+}
+
+button{
+	width: 170px;
+	margin-top: 10px;
+	height: 28px;
+	border: 1px solid #A4A4A4;
+	border-radius: 4px;
+}
+
+button:hover{
+	background-color: #D8D8D8;
+}
+
+label{
+	cursor: pointer;
+}
+
+.translation{
+	margin-top: 620px;
+	margin-bottom: 15px;
+	padding: 10px;
+	border-top: 1px solid #848484;
+	border-bottom: 1px solid #848484;
+	color: red;
+	display: block;
+}
+
+.img{
+	margin: 10px 5px 10px 5px;
+}
+
+.links{
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #848484;
+}
+
+.links a{
+	margin: 10px;
+	color: #151515;
+}
+
+.textos{
+	padding-bottom: 15px;
+	padding-top: 10px;
+	border-top: 1px solid #848484;
+	border-bottom: 1px solid #848484;
+	text-align: left;
+}
+
+footer{
+	padding-top: 13px;
+	margin-bottom: 15px;
+}
+
+footer a{
+	text-decoration: none;
+	color: #151515;
+}
+
+footer a:hover{
+	color: red;
+}
+
+
